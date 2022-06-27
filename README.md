@@ -1,5 +1,7 @@
 # Guide to Install XTB
-
+---------------------------
+- [x] Install XTB
+- [x] Example XTB Calculation
 ## Clone XTB Repository
 1. Install git  
 ```
