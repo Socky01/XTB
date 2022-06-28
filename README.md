@@ -79,7 +79,7 @@ obabel geom.smi -O geom.xyz --gen3D
 ```
 5. Running XTB
 ```
-xtb geom.xyz --opt
+xtb geom.xyz --opt > geom.out
 ```
 
 ## To visualize geomtry we can use __Avogadro__
